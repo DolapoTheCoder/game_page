@@ -11,7 +11,7 @@ const GamePage = () => {
   return (
     <div className="App">
       <header style={{ textAlign: 'center', padding: '20px 0' }}>
-      <h1 style={{ fontSize: '36px' }}>My Image Gallery</h1>
+      <h1 style={{ fontSize: '36px' }}>My Game's Gallery</h1>
     </header>
     <table>
       <tbody>
